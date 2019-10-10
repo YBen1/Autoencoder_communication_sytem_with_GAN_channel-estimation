@@ -1,2 +1,2 @@
 # MA_GAN
-Master Thesis
+based on "An Introduction to Deep Learning for the Physical Layer" - Timothy O’Shea , Senior Member, IEEE, and Jakob Hoydis, Member, IEEE
